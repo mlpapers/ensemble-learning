@@ -7,6 +7,7 @@
 - [A Short Introduction to Boosting](https://www.yorku.ca/gisweb/eats4400/boost.pdf) (1999) *Yoav Freund, Robert E. Schapire*
 - [Boosting Algorithms as Gradient Descent](http://papers.nips.cc/paper/1766-boosting-algorithms-as-gradient-descent.pdf) (2000) *Llew Mason, Jonathan Baxter, Peter Bartlett, Marcus Frean*
 - **AdaBoost** ([Wiki](https://en.wikipedia.org/wiki/AdaBoost))
+  - [Boosting the margin: A new explanation for the effectiveness of voting methods](https://www.cc.gatech.edu/~isbell/tutorials/boostingmargins.pdf) (1998) *Robert E. Schapire, Yoav Freund, Peter Bartlett, Wee Sun Lee*
 
 ### Tree based ensembles
 - **Random Forests** ([Wiki](https://en.wikipedia.org/wiki/Random_forest), [CRAN](https://cran.r-project.org/web/packages/randomForest/), [PyPI](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html#sklearn.ensemble.RandomForestClassifier))<br>
