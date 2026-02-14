@@ -1,11 +1,3 @@
----
-title: "Ensemble Learning"
-aliases: ["Ensemble methods", "Model ensembles"]
-tags:
-  - ensemble
-  - supervised
-  - boosting
----
 # Ensemble learning
 > In statistics and machine learning, ensemble methods use multiple learning algorithms to obtain better predictive performance than could be obtained from any of the constituent learning algorithms alone ([Wiki](https://en.wikipedia.org/wiki/Ensemble_learning))
 
